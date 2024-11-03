@@ -14,3 +14,6 @@ starlette==0.41.2
 typing_extensions==4.12.2
 urllib3==2.2.3
 uvicorn==0.32.0
+openai==0.32.0
+langchain==0.0.320  # Adjust to the latest compatible version if needed
+python-dotenv==1.0.0
